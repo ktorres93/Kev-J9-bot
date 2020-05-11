@@ -1,0 +1,22 @@
+{
+  "name": "kev-j9",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "crawler": "^1.2.1",
+    "discord.js": "^12.2.0",
+    "dotenv": "^8.2.0",
+    "ffmpeg-static": "^4.2.1",
+    "youtube-instant": "^1.0.7",
+    "youtube-search": "^1.1.4",
+    "yt-search": "^1.1.2",
+    "ytdl": "^1.3.0"
+  }
+}
